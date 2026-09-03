@@ -209,27 +209,20 @@ For me, good engineering is about curiosity, patience, and always trying to make
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/">
+  <a href="https://t.me/kumaranju9865">
     <img src="https://img.shields.io/badge/Telegram-26A5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/kumaranju9865" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/kumaranju9865">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a> 
   &nbsp;&nbsp;&nbsp;
-  <a href="https://fullportf.netlify.app/">
-    <img src="https://img.shields.io/badge/Old_Portfolio-3498DB?style=for-the-badge&logo=netlify&logoColor=white" alt="Old Website" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://qadamboyev1.vercel.app/">
+  <a href="https://kumaranju9865.github.io/">
     <img src="https://img.shields.io/badge/New_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="New Website" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://robocontest.uz/profile/zuhriddin2010">
-    <img src="https://img.shields.io/badge/RoboContest-007ACC?style=for-the-badge&logo=codeforces&logoColor=white" alt="RoboContest" />
-  </a>
+
 </p>
