@@ -177,7 +177,7 @@ For me, good engineering is about curiosity, patience, and always trying to make
 
 ## ☕ Support My Work
 
-<table>          
+<table align="center">          
 <tr>    
 
 <td width="60%">
