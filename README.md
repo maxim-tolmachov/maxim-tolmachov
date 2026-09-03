@@ -77,6 +77,11 @@ For me, good engineering is about curiosity, patience, and always trying to make
 
 <br/>
 
+<!--chiziqni kodi-->
+
+<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
+     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
+     alt="Rainbow Line">
 
 ## 🐙 Galaga Preview
 
@@ -140,13 +145,6 @@ For me, good engineering is about curiosity, patience, and always trying to make
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 </p>
-
-
-<!--chiziqni kodi-->
-
-<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
-     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
-     alt="Rainbow Line">
 
 ## 🌍 Open Source
 
