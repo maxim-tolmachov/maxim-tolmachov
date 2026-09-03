@@ -180,7 +180,7 @@ For me, good engineering is about curiosity, patience, and always trying to make
 <table align="center">          
 <tr>    
 
-<td width="60%">
+<td align="center" width="60%">
 
 <a align="center" href="https://www.buymeacoffee.com/kumaranju9865">
   <img 
@@ -191,7 +191,7 @@ For me, good engineering is about curiosity, patience, and always trying to make
 </a>
 
 </td>
-<td width="40%">
+<td align="center" width="40%">
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
 
