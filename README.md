@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/Experience-9%2B%20Years-6B46C1?style=for-the-badge" alt="Experience"/>
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20Web-61DAFB?style=for-the-badge" alt="Focus"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge" alt="Status"/>
+  <img src="https://komarev.com/ghpvc/?username=longway-harry&style=for-the-badge&color=2989D2&labelColor=0B1626&label=VIEWS"/>
 </div>
 
 <br/>
