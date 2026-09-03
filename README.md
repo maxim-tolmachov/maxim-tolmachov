@@ -45,6 +45,50 @@ For me, good engineering is about curiosity, patience, and always trying to make
 </tr>
 </table>
 
+
+## 🚀 Preferred Skills
+
+<!--chiziqni kodi-->
+
+<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
+     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
+     alt="Rainbow Line">
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/><br/>React</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40"/><br/>Next.js</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/><br/>TypeScript</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/><br/>Tailwind</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40"/><br/>Node.js</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" height="40"/><br/>NestJS</td>
+</tr>
+<tr>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="40" height="40"/><br/>GraphQL</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/><br/>PostgreSQL</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br/>MongoDB</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/><br/>Docker</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/><br/>Kubernetes</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/><br/>AWS</td>
+</tr>
+</table>
+
+<br/>
+
+
+## 🐙 Galaga Preview
+
+<picture>
+    <img alt="galaga contribution graph" src="assets/demo/galaga.svg">
+</picture>
+
+---
+
+<!--skils-->
+
+
 ## 🛠️ Tech Stack
 
 <h4>🎨 Frontend</h4>
@@ -97,46 +141,6 @@ For me, good engineering is about curiosity, patience, and always trying to make
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 </p>
 
-## 🐙 Galaga Preview
-
-<picture>
-    <img alt="galaga contribution graph" src="assets/demo/galaga.svg">
-</picture>
-
----
-
-<!--skils-->
-
-## 🚀 Preferred Skills
-
-<!--chiziqni kodi-->
-
-<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
-     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
-     alt="Rainbow Line">
-
-<br/>
-
-<table align="center">
-<tr>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/><br/>React</td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40"/><br/>Next.js</td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/><br/>TypeScript</td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/><br/>Tailwind</td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40"/><br/>Node.js</td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" height="40"/><br/>NestJS</td>
-</tr>
-<tr>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="40" height="40"/><br/>GraphQL</td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/><br/>PostgreSQL</td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br/>MongoDB</td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/><br/>Docker</td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/><br/>Kubernetes</td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/><br/>AWS</td>
-</tr>
-</table>
-
-<br/>
 
 <!--chiziqni kodi-->
 
