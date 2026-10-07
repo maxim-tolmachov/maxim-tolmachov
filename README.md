@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
     <p align='center'>
   <img src='https://github-widgetbox.vercel.app/api/profile?username=kumaranju9865&theme=metropolis&data=followers,repositories,stars,commits' />
     </p>    
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20Web-61DAFB?style=for-the-badge" alt="Focus"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge" alt="Status"/>
   <img src="https://komarev.com/ghpvc/?username=kumaranju9865&style=for-the-badge&color=2989D2&labelColor=0B1626&label=VIEWS"/>
-</div>
+</div> -->
 
 <br/>
 
@@ -63,7 +63,7 @@ For me, good engineering is about curiosity, patience, and always trying to make
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/><br/>TypeScript</td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/><br/>Tailwind</td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40"/><br/>Node.js</td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" height="40"/><br/>NestJS</td>
+<!-- <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" height="40"/><br/>NestJS</td> -->
 </tr>
 <tr>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="40" height="40"/><br/>GraphQL</td>
@@ -71,7 +71,7 @@ For me, good engineering is about curiosity, patience, and always trying to make
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br/>MongoDB</td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/><br/>Docker</td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/><br/>Kubernetes</td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/><br/>AWS</td>
+<!-- <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/><br/>AWS</td> -->
 </tr>
 </table>
 
@@ -211,15 +211,16 @@ For me, good engineering is about curiosity, patience, and always trying to make
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/kumaranju9865">
+  <a href="https://t.me/@gaiso5628">
     <img src="https://img.shields.io/badge/Telegram-26A5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/kumaranju9865" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kumaranju9865">
+  <a href="
+https://www.linkedin.com/in/maxim-tolmachov-0188a8184/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a> 
   &nbsp;&nbsp;&nbsp;
