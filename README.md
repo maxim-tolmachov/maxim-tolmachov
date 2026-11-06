@@ -1,4 +1,4 @@
-<!-- <div align="center">
+<div align="center">
     <p align='center'>
   <img src='https://github-widgetbox.vercel.app/api/profile?username=kumaranju9865&theme=metropolis&data=followers,repositories,stars,commits' />
     </p>    
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20Web-61DAFB?style=for-the-badge" alt="Focus"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge" alt="Status"/>
   <img src="https://komarev.com/ghpvc/?username=kumaranju9865&style=for-the-badge&color=2989D2&labelColor=0B1626&label=VIEWS"/>
-</div> -->
+</div>
 
 <br/>
 
